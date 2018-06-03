@@ -28,6 +28,9 @@ body {
   margin: 0 auto;
   background: rgb(146,	175,	167	);
 }
+h1 {
+  border-bottom: 5px;
+}
 
 h1, h2{
   color: rgb(146,	175,	167	);
