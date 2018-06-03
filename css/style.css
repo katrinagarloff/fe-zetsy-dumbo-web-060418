@@ -28,12 +28,12 @@ body {
   margin: 0 auto;
   background: rgb(146,	175,	167	);
 }
-h1 {
+h2{
+  color: rgb(146,	175,	167	);
   border-bottom: 5px;
-  border-color: black;
 }
 
-h1, h2{
+h2{
   color: rgb(146,	175,	167	);
 }
 
