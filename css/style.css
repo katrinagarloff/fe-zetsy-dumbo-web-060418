@@ -24,7 +24,9 @@ body {
 }
 
 #mint {
-  
+    padding: 5px;
+  margin: 0 auto;
+  background: rgb(204,204,204);
 }
 
 /* Write all remaining styles here */
