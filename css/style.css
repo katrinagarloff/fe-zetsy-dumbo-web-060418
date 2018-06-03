@@ -30,7 +30,8 @@ body {
 }
 
 .underline {
-  boder-bottom: 5px;
+  padding: 20;
+  boder-bottom: 5px black;
 }
 
 
